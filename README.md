@@ -16,6 +16,7 @@
 🉐 . Android，Windows，Apple全设备通用。
 电脑客户端：https://v.a5fe.com/windows.exe
 安卓客户端：https://v.a5fe.com/anzhuo.apk
+苹果网页：https://xdy2.vip
 
 最近更新：`2023年3月23日`
 
