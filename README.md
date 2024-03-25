@@ -14,9 +14,7 @@
 🉐·全球热门节点+解锁Netflix+直连中转
 🉐·全时段4K播放不卡顿-速度够快
 🉐 . Android，Windows，Apple全设备通用。
-电脑客户端：https://v.a5fe.com/windows.exe
-安卓客户端：https://v.a5fe.com/anzhuo.apk
-苹果网页：https://xdy2.vip
+网页：https://xdy2.vip
 
 最近更新：`2023年3月23日`
 
